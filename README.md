@@ -1,6 +1,6 @@
 # WinSock2-Chatroom
 
-Allows communication between to users via a server on a windows machine.
+Allows users to communicate via a server using WinSock2.
 
 # Starting the chatroom
 
